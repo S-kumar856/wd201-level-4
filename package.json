@@ -7,7 +7,7 @@
     "test": "jest",
     "prepare": "husky install"
   },
-  "author": "kumar <21955a0509@iare.ac.in>",
+  "author": "kumar <hk856856@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.24.0",
